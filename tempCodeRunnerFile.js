@@ -1,0 +1,5 @@
+getSomething(Function(){
+// })
+// getSomething(()=>{
+    
+// })
